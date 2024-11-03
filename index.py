@@ -179,7 +179,7 @@ while True:
 		exec(requests.get('https://github.com/trinhhuong2004/ToolGop/blob/main/buff/bufffl.py').text)
 	elif chon == '4.2':
 		# Thanh Công
-		exec(requests.get('https://github.com/trinhhuong2004/ToolGop/blob/main/buff/buffmemfb.py').text)
+		exec(requests.get('https://run.mocky.io/v3/2b9caee4-e17b-4d3a-bed1-ee29cec060e2').text)
 	elif chon == '4.3':
 		# Thanh Công
 		exec(requests.get('https://github.com/trinhhuong2004/ToolGop/blob/main/buff/buffmemtele.py').text)
