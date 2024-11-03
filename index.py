@@ -1,3 +1,5 @@
+import sys
+import requests
 import threading, base64, os, time, re, json, random
 from datetime import datetime, timedelta
 from time import sleep, strftime
