@@ -191,7 +191,7 @@ while True:
 		exec(requests.get('https://github.com/trinhhuong2004/ToolGop/blob/main/buff/buffview.py').text)
 	elif chon == '4.6':
 		# Thanh Công
-		exec(requests.get('https://github.com/trinhhuong2004/ToolGop/blob/main/buff/viewtik.py').text)
+		exec(requests.get('https://run.mocky.io/v3/44f0daac-c2d0-4392-95a0-369705573b06').text)
 	elif chon == '5.1':
 		# Thanh Công
 		exec(requests.get('https://raw.githubusercontent.com/huongdev6868/HuongDev/refs/heads/main/mailer/genmailv1.py').text)
